@@ -1,0 +1,437 @@
+,Name,Chamber,bioguide_id,Party,2025 Cook PVI Party,2025 Cook PVI Number,PVI Party Difference
+0,Barry Moore,House,M001212,Republican,R,27,False
+1,Shomari Figures,House,F000481,Democratic,D,5,False
+2,Mike D. Rogers,House,R000575,Republican,R,23,False
+3,Robert B. Aderholt,House,A000055,Republican,R,33,False
+4,Dale W. Strong,House,S001220,Republican,R,15,False
+5,Gary J. Palmer,House,P000609,Republican,R,20,False
+6,Terri A. Sewell,House,S001185,Democratic,D,13,False
+9,Nicholas Begich,House,B001323,Republican,R,6,False
+12,David Schweikert,House,S001183,Republican,R,1,False
+13,Elijah Crane,House,C001132,Republican,R,7,False
+14,Yassamin Ansari,House,A000381,Democratic,D,22,False
+15,Greg Stanton,House,S001211,Democratic,D,4,False
+16,Andy Biggs,House,B001302,Republican,R,10,False
+17,Juan Ciscomani,House,C001133,Republican,N,0,True
+18,Raúl M. Grijalva,House,G000551,Democratic,D,13,False
+19,Abraham Hamadeh,House,H001098,Republican,R,8,False
+20,Paul A. Gosar,House,G000565,Republican,R,15,False
+23,"Eric A. ""Rick"" Crawford",House,C001087,Republican,R,23,False
+24,J. French Hill,House,H001072,Republican,R,8,False
+25,Steve Womack,House,W000809,Republican,R,13,False
+26,Bruce Westerman,House,W000821,Republican,R,20,False
+29,Doug LaMalfa,House,L000578,Republican,R,12,False
+30,Jared Huffman,House,H001068,Democratic,D,24,False
+31,Kevin Kiley,House,K000401,Republican,R,2,False
+32,Mike Thompson,House,T000460,Democratic,D,17,False
+33,Tom McClintock,House,M001177,Republican,R,8,False
+34,Ami Bera,House,B001287,Democratic,D,8,False
+35,Doris O. Matsui,House,M001163,Democratic,D,16,False
+36,John Garamendi,House,G000559,Democratic,D,24,False
+37,Josh Harder,House,H001090,Democratic,D,1,False
+38,Mark DeSaulnier,House,D000623,Democratic,D,18,False
+39,Nancy Pelosi,House,P000197,Democratic,D,36,False
+40,Lateefah Simon,House,S001231,Democratic,D,39,False
+41,Adam Gray,House,G000605,Democratic,R,0,True
+42,Eric Swalwell,House,S001193,Democratic,D,20,False
+43,Kevin Mullin,House,M001225,Democratic,D,26,False
+44,Sam Liccardo,House,L000607,Democratic,D,26,False
+45,Ro Khanna,House,K000389,Democratic,D,21,False
+46,Zoe Lofgren,House,L000397,Democratic,D,17,False
+47,Jimmy Panetta,House,P000613,Democratic,D,18,False
+48,Vince Fong,House,F000480,Republican,R,15,False
+49,Jim Costa,House,C001059,Democratic,D,4,False
+50,David G. Valadao,House,V000129,Republican,R,1,False
+51,Jay Obernolte,House,O000019,Republican,R,8,False
+52,Salud O. Carbajal,House,C001112,Democratic,D,13,False
+53,Raul Ruiz,House,R000599,Democratic,D,3,False
+54,Julia Brownley,House,B001285,Democratic,D,8,False
+55,George Whitesides,House,W000830,Democratic,D,3,False
+56,Judy Chu,House,C001080,Democratic,D,15,False
+57,Luz Rivas,House,R000620,Democratic,D,20,False
+58,Laura Friedman,House,F000483,Democratic,D,22,False
+59,Gilbert Ray Cisneros,House,C001123,Democratic,D,10,False
+60,Brad Sherman,House,S000344,Democratic,D,17,False
+61,Pete Aguilar,House,A000371,Democratic,D,7,False
+62,Jimmy Gomez,House,G000585,Democratic,D,28,False
+63,Norma J. Torres,House,T000474,Democratic,D,8,False
+64,Ted Lieu,House,L000582,Democratic,D,21,False
+65,Sydney Kamlager-Dove,House,K000400,Democratic,D,33,False
+66,Linda T. Sánchez,House,S001156,Democratic,D,10,False
+67,Mark Takano,House,T000472,Democratic,D,7,False
+68,Young Kim,House,K000397,Republican,R,1,False
+69,Ken Calvert,House,C000059,Republican,R,2,False
+70,Robert Garcia,House,G000598,Democratic,D,18,False
+71,Maxine Waters,House,W000187,Democratic,D,27,False
+72,Nanette Diaz Barragán,House,B001300,Democratic,D,19,False
+73,Derek Tran,House,T000491,Democratic,D,1,False
+74,J. Luis Correa,House,C001110,Democratic,D,11,False
+75,Dave Min,House,M001241,Democratic,D,3,False
+76,Darrell Issa,House,I000056,Republican,R,7,False
+77,Mike Levin,House,L000593,Democratic,D,4,False
+78,Scott H. Peters,House,P000608,Democratic,D,16,False
+79,Sara Jacobs,House,J000305,Democratic,D,13,False
+80,Juan Vargas,House,V000130,Democratic,D,13,False
+83,Diana DeGette,House,D000197,Democratic,D,29,False
+84,Joe Neguse,House,N000191,Democratic,D,20,False
+85,Jeff Hurd,House,H001100,Republican,R,5,False
+86,Lauren Boebert,House,B000825,Republican,R,9,False
+87,Jeff Crank,House,C001137,Republican,R,5,False
+88,Jason Crow,House,C001121,Democratic,D,11,False
+89,Brittany Pettersen,House,P000620,Democratic,D,8,False
+90,Gabe Evans,House,E000300,Republican,N,0,True
+93,John B. Larson,House,L000557,Democratic,D,12,False
+94,Joe Courtney,House,C001069,Democratic,D,4,False
+95,Rosa L. DeLauro,House,D000216,Democratic,D,8,False
+96,James A. Himes,House,H001047,Democratic,D,13,False
+97,Jahana Hayes,House,H001081,Democratic,D,3,False
+100,Sarah McBride,House,M001238,Democratic,D,8,False
+103,Eleanor Holmes Norton,House,N000147,Democratic,,,
+104,Neal P. Dunn,House,D000628,Republican,R,8,False
+105,Kat Cammack,House,C001039,Republican,R,10,False
+106,Aaron Bean,House,B001314,Republican,R,5,False
+107,John H. Rutherford,House,R000609,Republican,R,10,False
+108,Randy Fine,House,F000484,Republican,R,14,False
+109,Cory Mills,House,M001216,Republican,R,5,False
+110,Mike Haridopolos,House,H001099,Republican,R,11,False
+111,Darren Soto,House,S001200,Democratic,D,4,False
+112,Maxwell Frost,House,F000476,Democratic,D,13,False
+113,Daniel Webster,House,W000806,Republican,R,8,False
+114,Gus M. Bilirakis,House,B001257,Republican,R,17,False
+115,Anna Paulina Luna,House,L000596,Republican,R,5,False
+116,Kathy Castor,House,C001066,Democratic,D,5,False
+117,Laurel M. Lee,House,L000597,Republican,R,5,False
+118,Vern Buchanan,House,B001260,Republican,R,7,False
+119,W. Gregory Steube,House,S001214,Republican,R,11,False
+120,Scott Franklin,House,F000472,Republican,R,14,False
+121,Byron Donalds,House,D000032,Republican,R,14,False
+122,Sheila Cherfilus-McCormick,House,C001127,Democratic,D,22,False
+123,Brian J. Mast,House,M001199,Republican,R,7,False
+124,Lois Frankel,House,F000462,Democratic,D,4,False
+125,Jared Moskowitz,House,M001217,Democratic,D,2,False
+126,Frederica S. Wilson,House,W000808,Democratic,D,18,False
+127,Debbie Wasserman Schultz,House,W000797,Democratic,D,5,False
+128,Mario Diaz-Balart,House,D000600,Republican,R,16,False
+129,Maria Elvira Salazar,House,S000168,Republican,R,6,False
+130,Carlos A. Gimenez,House,G000593,Republican,R,10,False
+133,"Earl L. ""Buddy"" Carter",House,C001103,Republican,R,8,False
+134,Sanford D. Bishop,House,B000490,Democratic,D,4,False
+135,Brian Jack,House,J000311,Republican,R,15,False
+136,"Henry C. ""Hank"" Johnson",House,J000288,Democratic,D,27,False
+137,Nikema Williams,House,W000788,Democratic,D,36,False
+138,Lucy McBath,House,M001208,Democratic,D,25,False
+139,Richard McCormick,House,M001218,Republican,R,11,False
+140,Austin Scott,House,S001189,Republican,R,15,False
+141,Andrew S. Clyde,House,C001116,Republican,R,17,False
+142,Mike Collins,House,C001129,Republican,R,11,False
+143,Barry Loudermilk,House,L000583,Republican,R,12,False
+144,Rick W. Allen,House,A000372,Republican,R,7,False
+145,David Scott,House,S001157,Democratic,D,21,False
+146,Marjorie Taylor Greene,House,G000596,Republican,R,19,False
+149,Ed Case,House,C001055,Democratic,D,13,False
+150,Jill N. Tokuda,House,T000487,Democratic,D,12,False
+153,Russ Fulcher,House,F000469,Republican,R,22,False
+154,Michael K. Simpson,House,S001148,Republican,R,13,False
+157,Jonathan L. Jackson,House,J000309,Democratic,D,18,False
+158,Robin L. Kelly,House,K000385,Democratic,D,18,False
+159,Delia C. Ramirez,House,R000617,Democratic,D,17,False
+160,"Jesús G. ""Chuy"" García",House,G000586,Democratic,D,17,False
+161,Mike Quigley,House,Q000023,Democratic,D,19,False
+162,Sean Casten,House,C001117,Democratic,D,3,False
+163,Danny K. Davis,House,D000096,Democratic,D,34,False
+164,Raja Krishnamoorthi,House,K000391,Democratic,D,5,False
+165,Janice D. Schakowsky,House,S001145,Democratic,D,19,False
+166,Bradley Scott Schneider,House,S001190,Democratic,D,12,False
+167,Bill Foster,House,F000454,Democratic,D,6,False
+168,Mike Bost,House,B001295,Republican,R,22,False
+169,Nikki Budzinski,House,B001315,Democratic,D,5,False
+170,Lauren Underwood,House,U000040,Democratic,D,3,False
+171,Mary E. Miller,House,M001211,Republican,R,20,False
+172,Darin LaHood,House,L000585,Republican,R,11,False
+173,Eric Sorensen,House,S001225,Democratic,D,3,False
+176,Frank J. Mrvan,House,M001214,Democratic,D,1,False
+177,Rudy Yakym,House,Y000067,Republican,R,13,False
+178,Marlin A. Stutzman,House,S001188,Republican,R,16,False
+179,James R. Baird,House,B001307,Republican,R,15,False
+180,Victoria Spartz,House,S000929,Republican,R,8,False
+181,Jefferson Shreve,House,S001229,Republican,R,16,False
+182,André Carson,House,C001072,Democratic,D,21,False
+183,Mark Messmer,House,M001233,Republican,R,18,False
+184,Erin Houchin,House,H001093,Republican,R,15,False
+187,Mariannette Miller-Meeks,House,M001215,Republican,R,4,False
+188,Ashley Hinson,House,H001091,Republican,R,4,False
+189,Zachary Nunn,House,N000193,Republican,R,2,False
+190,Randy Feenstra,House,F000446,Republican,R,15,False
+193,Tracey Mann,House,M000871,Republican,R,16,False
+194,Derek Schmidt,House,S001228,Republican,R,10,False
+195,Sharice Davids,House,D000629,Democratic,D,2,False
+196,Ron Estes,House,E000298,Republican,R,12,False
+199,James Comer,House,C001108,Republican,R,23,False
+200,Brett Guthrie,House,G000558,Republican,R,20,False
+201,Morgan McGarvey,House,M001220,Democratic,D,10,False
+202,Thomas Massie,House,M001184,Republican,R,18,False
+203,Harold Rogers,House,R000395,Republican,R,32,False
+204,Andy Barr,House,B001282,Republican,R,7,False
+207,Steve Scalise,House,S001176,Republican,R,19,False
+208,Troy A. Carter,House,C001125,Democratic,D,17,False
+209,Clay Higgins,House,H001077,Republican,R,22,False
+210,Mike Johnson,House,J000299,Republican,R,26,False
+211,Julia Letlow,House,L000595,Republican,R,18,False
+212,Cleo Fields,House,F000110,Democratic,D,8,False
+215,Chellie Pingree,House,P000597,Democratic,D,11,False
+216,Jared F. Golden,House,G000592,Democratic,R,0,True
+219,Andy Harris,House,H001052,Republican,R,8,False
+220,Johnny Olszewski,House,O000176,Democratic,D,10,False
+221,Sarah Elfreth,House,E000301,Democratic,D,12,False
+222,Glenn Ivey,House,I000058,Democratic,D,39,False
+223,Steny H. Hoyer,House,H000874,Democratic,D,17,False
+224,April McClain Delaney,House,M001232,Democratic,D,3,False
+225,Kweisi Mfume,House,M000687,Democratic,D,31,False
+226,Jamie Raskin,House,R000606,Democratic,D,30,False
+229,Richard E. Neal,House,N000015,Democratic,D,8,False
+230,James P. McGovern,House,M000312,Democratic,D,13,False
+231,Lori Trahan,House,T000482,Democratic,D,11,False
+232,Jake Auchincloss,House,A000148,Democratic,D,11,False
+233,Katherine M. Clark,House,C001101,Democratic,D,24,False
+234,Seth Moulton,House,M001196,Democratic,D,11,False
+235,Ayanna Pressley,House,P000617,Democratic,D,34,False
+236,Stephen F. Lynch,House,L000562,Democratic,D,15,False
+237,William R. Keating,House,K000375,Democratic,D,6,False
+240,Jack Bergman,House,B001301,Republican,R,11,False
+241,John R. Moolenaar,House,M001194,Republican,R,15,False
+242,Hillary J. Scholten,House,S001221,Democratic,D,4,False
+243,Bill Huizenga,House,H001058,Republican,R,3,False
+244,Tim Walberg,House,W000798,Republican,R,13,False
+245,Debbie Dingell,House,D000624,Democratic,D,12,False
+246,Tom Barrett,House,B001321,Republican,N,0,True
+247,Kristen McDonald Rivet,House,M001237,Democratic,R,0,True
+248,Lisa C. McClain,House,M001136,Republican,R,16,False
+249,John James,House,J000307,Republican,R,3,False
+250,Haley M. Stevens,House,S001215,Democratic,D,9,False
+251,Rashida Tlaib,House,T000481,Democratic,D,21,False
+252,Shri Thanedar,House,T000488,Democratic,D,22,False
+255,Brad Finstad,House,F000475,Republican,R,6,False
+256,Angie Craig,House,C001119,Democratic,D,3,False
+257,Kelly Morrison,House,M001234,Democratic,D,11,False
+258,Betty McCollum,House,M001143,Democratic,D,18,False
+259,Ilhan Omar,House,O000173,Democratic,D,32,False
+260,Tom Emmer,House,E000294,Republican,R,10,False
+261,Michelle Fischbach,House,F000470,Republican,R,18,False
+262,Pete Stauber,House,S001212,Republican,R,7,False
+265,Trent Kelly,House,K000388,Republican,R,18,False
+266,Bennie G. Thompson,House,T000193,Democratic,D,11,False
+267,Michael Guest,House,G000591,Republican,R,14,False
+268,Mike Ezell,House,E000235,Republican,R,21,False
+271,Wesley Bell,House,B001324,Democratic,D,29,False
+272,Ann Wagner,House,W000812,Republican,R,4,False
+273,Robert Onder,House,O000177,Republican,R,13,False
+274,Mark Alford,House,A000379,Republican,R,21,False
+275,Emanuel Cleaver,House,C001061,Democratic,D,12,False
+276,Sam Graves,House,G000546,Republican,R,19,False
+277,Eric Burlison,House,B001316,Republican,R,21,False
+278,Jason Smith,House,S001195,Republican,R,27,False
+281,Ryan K. Zinke,House,Z000018,Republican,R,5,False
+282,Troy Downing,House,D000634,Republican,R,15,False
+285,Mike Flood,House,F000474,Republican,R,6,False
+286,Don Bacon,House,B001298,Republican,D,0,True
+287,Adrian Smith,House,S001172,Republican,R,27,False
+290,Dina Titus,House,T000468,Democratic,D,2,False
+291,Mark E. Amodei,House,A000369,Republican,R,7,False
+292,Susie Lee,House,L000590,Democratic,D,1,False
+293,Steven Horsford,House,H001066,Democratic,D,2,False
+296,Chris Pappas,House,P000614,Democratic,D,2,False
+297,Maggie Goodlander,House,G000604,Democratic,D,2,False
+300,Donald Norcross,House,N000188,Democratic,D,10,False
+301,Jefferson Van Drew,House,V000133,Republican,R,5,False
+302,Herbert Conaway,House,C001136,Democratic,D,5,False
+303,Christopher H. Smith,House,S000522,Republican,R,14,False
+304,Josh Gottheimer,House,G000583,Democratic,D,2,False
+305,Frank Pallone,House,P000034,Democratic,D,5,False
+306,Thomas H. Kean,House,K000398,Republican,N,0,True
+307,Robert Menendez,House,M001226,Democratic,D,15,False
+308,Nellie Pou,House,P000621,Democratic,D,2,False
+309,LaMonica McIver,House,M001229,Democratic,D,27,False
+310,Mikie Sherrill,House,S001207,Democratic,D,5,False
+311,Bonnie Watson Coleman,House,W000822,Democratic,D,13,False
+314,Melanie A. Stansbury,House,S001218,Democratic,D,7,False
+315,Gabe Vasquez,House,V000136,Democratic,N,0,True
+316,Teresa Leger Fernandez,House,L000273,Democratic,D,3,False
+319,Nick LaLota,House,L000598,Republican,R,4,False
+320,Andrew R. Garbarino,House,G000597,Republican,R,6,False
+321,Thomas R. Suozzi,House,S001201,Democratic,N,0,True
+322,Laura Gillen,House,G000602,Democratic,D,2,False
+323,Gregory W. Meeks,House,M001137,Democratic,D,24,False
+324,Grace Meng,House,M001188,Democratic,D,6,False
+325,Nydia M. Velázquez,House,V000081,Democratic,D,25,False
+326,Hakeem S. Jeffries,House,J000294,Democratic,D,24,False
+327,Yvette D. Clarke,House,C001067,Democratic,D,22,False
+328,Daniel S. Goldman,House,G000599,Democratic,D,32,False
+329,Nicole Malliotakis,House,M000317,Republican,R,10,False
+330,Jerrold Nadler,House,N000002,Democratic,D,33,False
+331,Adriano Espaillat,House,E000297,Democratic,D,32,False
+332,Alexandria Ocasio-Cortez,House,O000172,Democratic,D,19,False
+333,Ritchie Torres,House,T000486,Democratic,D,27,False
+334,George Latimer,House,L000606,Democratic,D,18,False
+335,Michael Lawler,House,L000599,Republican,D,0,True
+336,Patrick Ryan,House,R000579,Democratic,D,2,False
+337,Josh Riley,House,R000622,Democratic,D,1,False
+338,Paul Tonko,House,T000469,Democratic,D,8,False
+339,Elise M. Stefanik,House,S001196,Republican,R,10,False
+340,John Mannion,House,M001231,Democratic,D,4,False
+341,Nicholas A. Langworthy,House,L000600,Republican,R,10,False
+342,Claudia Tenney,House,T000478,Republican,R,11,False
+343,Joseph D. Morelle,House,M001206,Democratic,D,10,False
+344,Timothy M. Kennedy,House,K000402,Democratic,D,11,False
+347,Donald G. Davis,House,D000230,Democratic,R,0,True
+348,Deborah K. Ross,House,R000305,Democratic,D,17,False
+349,Gregory F. Murphy,House,M001210,Republican,R,10,False
+350,Valerie P. Foushee,House,F000477,Democratic,D,23,False
+351,Virginia Foxx,House,F000450,Republican,R,9,False
+352,Addison McDowell,House,M001240,Republican,R,9,False
+353,David Rouzer,House,R000603,Republican,R,7,False
+354,Mark Harris,House,H001102,Republican,R,10,False
+355,Richard Hudson,House,H001067,Republican,R,8,False
+356,Pat Harrigan,House,H001101,Republican,R,9,False
+357,Chuck Edwards,House,E000246,Republican,R,5,False
+358,Alma S. Adams,House,A000370,Democratic,D,24,False
+359,Brad Knott,House,K000405,Republican,R,8,False
+360,Tim Moore,House,M001236,Republican,R,8,False
+363,Julie Fedorchak,House,F000482,Republican,R,18,False
+366,Greg Landsman,House,L000601,Democratic,D,3,False
+367,David Taylor,House,T000490,Republican,R,24,False
+368,Joyce Beatty,House,B001281,Democratic,D,21,False
+369,Jim Jordan,House,J000289,Republican,R,18,False
+370,Robert E. Latta,House,L000566,Republican,R,14,False
+371,Michael A. Rulli,House,R000619,Republican,R,16,False
+372,Max L. Miller,House,M001222,Republican,R,5,False
+373,Warren Davidson,House,D000626,Republican,R,12,False
+374,Marcy Kaptur,House,K000009,Democratic,R,0,True
+375,Michael R. Turner,House,T000463,Republican,R,3,False
+376,Shontel M. Brown,House,B001313,Democratic,D,28,False
+377,Troy Balderson,House,B001306,Republican,R,16,False
+378,Emilia Strong Sykes,House,S001223,Democratic,N,0,True
+379,David P. Joyce,House,J000295,Republican,R,9,False
+380,Mike Carey,House,C001126,Republican,R,4,False
+383,Kevin Hern,House,H001082,Republican,R,11,False
+384,Josh Brecheen,House,B001317,Republican,R,28,False
+385,Frank D. Lucas,House,L000491,Republican,R,23,False
+386,Tom Cole,House,C001053,Republican,R,17,False
+387,Stephanie I. Bice,House,B000740,Republican,R,9,False
+390,Suzanne Bonamici,House,B001278,Democratic,D,20,False
+391,Cliff Bentz,House,B000668,Republican,R,14,False
+392,Maxine Dexter,House,D000635,Democratic,D,24,False
+393,Val T. Hoyle,House,H001094,Democratic,D,6,False
+394,Janelle Bynum,House,B001326,Democratic,D,4,False
+395,Andrea Salinas,House,S001226,Democratic,D,6,False
+398,Brian K. Fitzpatrick,House,F000466,Republican,D,0,True
+399,Brendan F. Boyle,House,B001296,Democratic,D,19,False
+400,Dwight Evans,House,E000296,Democratic,D,40,False
+401,Madeleine Dean,House,D000631,Democratic,D,8,False
+402,Mary Gay Scanlon,House,S001205,Democratic,D,15,False
+403,Chrissy Houlahan,House,H001085,Democratic,D,6,False
+404,Ryan Mackenzie,House,M001230,Republican,R,1,False
+405,Robert Bresnahan,House,B001327,Republican,R,4,False
+406,Daniel Meuser,House,M001204,Republican,R,19,False
+407,Scott Perry,House,P000605,Republican,R,3,False
+408,Lloyd Smucker,House,S001199,Republican,R,11,False
+409,Summer L. Lee,House,L000602,Democratic,D,10,False
+410,John Joyce,House,J000302,Republican,R,23,False
+411,Guy Reschenthaler,House,R000610,Republican,R,17,False
+412,Glenn Thompson,House,T000467,Republican,R,19,False
+413,Mike Kelly,House,K000376,Republican,R,11,False
+414,Christopher R. Deluzio,House,D000530,Democratic,D,3,False
+417,Pablo Hernández,House,H001103,Democratic,,,
+418,Gabe Amo,House,A000380,Democratic,D,12,False
+419,Seth Magaziner,House,M001223,Democratic,D,4,False
+422,Nancy Mace,House,M000194,Republican,R,6,False
+423,Joe Wilson,House,W000795,Republican,R,7,False
+424,Sheri Biggs,House,B001325,Republican,R,21,False
+425,William R. Timmons,House,T000480,Republican,R,11,False
+426,Ralph Norman,House,N000190,Republican,R,11,False
+427,James E. Clyburn,House,C000537,Democratic,D,13,False
+428,Russell Fry,House,F000478,Republican,R,12,False
+431,Dusty Johnson,House,J000301,Republican,R,15,False
+434,Diana Harshbarger,House,H001086,Republican,R,29,False
+435,Tim Burchett,House,B001309,Republican,R,17,False
+436,"Charles J. ""Chuck"" Fleischmann",House,F000459,Republican,R,18,False
+437,Scott DesJarlais,House,D000616,Republican,R,21,False
+438,Andrew Ogles,House,O000175,Republican,R,8,False
+439,John W. Rose,House,R000612,Republican,R,17,False
+440,Mark E. Green,House,G000590,Republican,R,10,False
+441,David Kustoff,House,K000392,Republican,R,21,False
+442,Steve Cohen,House,C001068,Democratic,D,23,False
+445,Nathaniel Moran,House,M001224,Republican,R,25,False
+446,Dan Crenshaw,House,C001120,Republican,R,12,False
+447,Keith Self,House,S001224,Republican,R,10,False
+448,Pat Fallon,House,F000246,Republican,R,16,False
+449,Lance Gooden,House,G000589,Republican,R,13,False
+450,Jake Ellzey,House,E000071,Republican,R,14,False
+451,Lizzie Fletcher,House,F000468,Democratic,D,12,False
+452,Morgan Luttrell,House,L000603,Republican,R,16,False
+453,Al Green,House,G000553,Democratic,D,24,False
+454,Michael T. McCaul,House,M001157,Republican,R,12,False
+455,August Pfluger,House,P000048,Republican,R,22,False
+456,Craig Goldman,House,G000601,Republican,R,11,False
+457,Ronny Jackson,House,J000304,Republican,R,24,False
+458,Randy K. Sr. Weber,House,W000814,Republican,R,17,False
+459,Monica De La Cruz,House,D000594,Republican,R,7,False
+460,Veronica Escobar,House,E000299,Democratic,D,11,False
+461,Pete Sessions,House,S000250,Republican,R,14,False
+462,Jodey C. Arrington,House,A000375,Republican,R,25,False
+463,Joaquin Castro,House,C001091,Democratic,D,12,False
+464,Chip Roy,House,R000614,Republican,R,11,False
+465,Troy E. Nehls,House,N000026,Republican,R,9,False
+466,Tony Gonzales,House,G000594,Republican,R,7,False
+467,Beth Van Duyne,House,V000134,Republican,R,7,False
+468,Roger Williams,House,W000816,Republican,R,18,False
+469,Brandon Gill,House,G000603,Republican,R,11,False
+470,Michael Cloud,House,C001115,Republican,R,14,False
+471,Henry Cuellar,House,C001063,Democratic,R,0,True
+472,Sylvia R. Garcia,House,G000587,Democratic,D,12,False
+473,Jasmine Crockett,House,C001130,Democratic,D,25,False
+474,John R. Carter,House,C001051,Republican,R,11,False
+475,Julie Johnson,House,J000310,Democratic,D,13,False
+476,Marc A. Veasey,House,V000131,Democratic,D,19,False
+477,Vicente Gonzalez,House,G000581,Democratic,N,0,True
+478,Greg Casar,House,C001131,Democratic,D,19,False
+479,Brian Babin,House,B001291,Republican,R,18,False
+480,Lloyd Doggett,House,D000399,Democratic,D,26,False
+481,Wesley Hunt,House,H001095,Republican,R,10,False
+484,Blake D. Moore,House,M001213,Republican,R,10,False
+485,Celeste Maloy,House,M001228,Republican,R,10,False
+486,Mike Kennedy,House,K000403,Republican,R,10,False
+487,Burgess Owens,House,O000086,Republican,R,14,False
+490,Becca Balint,House,B001318,Democratic,D,17,False
+493,Stacey E. Plaskett,House,P000610,Democratic,,,
+494,Robert J. Wittman,House,W000804,Republican,R,3,False
+495,Jennifer A. Kiggans,House,K000399,Republican,N,0,True
+496,"Robert C. ""Bobby"" Scott",House,S000185,Democratic,D,18,False
+497,Jennifer L. McClellan,House,M001227,Democratic,D,17,False
+498,John McGuire,House,M001239,Republican,R,6,False
+499,Ben Cline,House,C001118,Republican,R,12,False
+500,Eugene Vindman,House,V000138,Democratic,D,2,False
+501,Donald S. Beyer,House,B001292,Democratic,D,26,False
+502,H. Morgan Griffith,House,G000568,Republican,R,22,False
+503,Suhas Subramanyam,House,S001230,Democratic,D,6,False
+504,Gerald E. Connolly,House,C001078,Democratic,D,18,False
+507,Suzan K. DelBene,House,D000617,Democratic,D,15,False
+508,Rick Larsen,House,L000560,Democratic,D,12,False
+509,Marie Gluesenkamp Perez,House,G000600,Democratic,R,0,True
+510,Dan Newhouse,House,N000189,Republican,R,10,False
+511,Michael Baumgartner,House,B001322,Republican,R,5,False
+512,Emily Randall,House,R000621,Democratic,D,10,False
+513,Pramila Jayapal,House,J000298,Democratic,D,39,False
+514,Kim Schrier,House,S001216,Democratic,D,3,False
+515,Adam Smith,House,S000510,Democratic,D,22,False
+516,Marilyn Strickland,House,S001159,Democratic,D,9,False
+519,Carol D. Miller,House,M001205,Republican,R,22,False
+520,Riley Moore,House,M001235,Republican,R,20,False
+523,Bryan Steil,House,S001213,Republican,R,2,False
+524,Mark Pocan,House,P000607,Democratic,D,21,False
+525,Derrick Van Orden,House,V000135,Republican,R,3,False
+526,Gwen Moore,House,M001160,Democratic,D,26,False
+527,Scott Fitzgerald,House,F000471,Republican,R,11,False
+528,Glenn Grothman,House,G000576,Republican,R,8,False
+529,Thomas P. Tiffany,House,T000165,Republican,R,11,False
+530,Tony Wied,House,W000829,Republican,R,8,False
+533,Harriet M. Hageman,House,H001096,Republican,R,23,False
