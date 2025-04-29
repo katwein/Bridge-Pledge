@@ -1,0 +1,537 @@
+Name,Chamber,bioguide_id,State,District,Party,Vote for Other Party,Vote for Cosponsored Bill
+Barry Moore,House,M001212,Alabama,1,Republican,0.0,7.0
+Shomari Figures,House,F000481,Alabama,2,Democratic,6.0,4.0
+Mike D. Rogers,House,R000575,Alabama,3,Republican,0.0,7.0
+Robert B. Aderholt,House,A000055,Alabama,4,Republican,0.0,7.0
+Dale W. Strong,House,S001220,Alabama,5,Republican,0.0,7.0
+Gary J. Palmer,House,P000609,Alabama,6,Republican,0.0,7.0
+Terri A. Sewell,House,S001185,Alabama,7,Democratic,6.0,5.0
+Katie Boyd Britt,Senate,B001319,Alabama,,Republican,0.0,3.0
+Tommy Tuberville,Senate,T000278,Alabama,,Republican,0.0,3.0
+Nicholas Begich,House,B001323,Alaska,At Large,Republican,0.0,7.0
+Lisa Murkowski,Senate,M001153,Alaska,,Republican,0.0,3.0
+Dan Sullivan,Senate,S001198,Alaska,,Republican,0.0,3.0
+David Schweikert,House,S001183,Arizona,1,Republican,0.0,7.0
+Elijah Crane,House,C001132,Arizona,2,Republican,0.0,7.0
+Yassamin Ansari,House,A000381,Arizona,3,Democratic,2.0,1.0
+Greg Stanton,House,S001211,Arizona,4,Democratic,8.0,5.0
+Andy Biggs,House,B001302,Arizona,5,Republican,0.0,7.0
+Juan Ciscomani,House,C001133,Arizona,6,Republican,0.0,7.0
+Raúl M. Grijalva,House,G000551,Arizona,7,Democratic,0.0,0.0
+Abraham Hamadeh,House,H001098,Arizona,8,Republican,0.0,7.0
+Paul A. Gosar,House,G000565,Arizona,9,Republican,0.0,7.0
+Ruben Gallego,Senate,G000574,Arizona,,Democratic,2.0,2.0
+Mark Kelly,Senate,K000377,Arizona,,Democratic,2.0,2.0
+"Eric A. ""Rick"" Crawford",House,C001087,Arkansas,1,Republican,0.0,7.0
+J. French Hill,House,H001072,Arkansas,2,Republican,0.0,7.0
+Steve Womack,House,W000809,Arkansas,3,Republican,0.0,7.0
+Bruce Westerman,House,W000821,Arkansas,4,Republican,0.0,7.0
+John Boozman,Senate,B001236,Arkansas,,Republican,0.0,3.0
+Tom Cotton,Senate,C001095,Arkansas,,Republican,0.0,3.0
+Doug LaMalfa,House,L000578,California,1,Republican,0.0,7.0
+Jared Huffman,House,H001068,California,2,Democratic,1.0,1.0
+Kevin Kiley,House,K000401,California,3,Republican,0.0,7.0
+Mike Thompson,House,T000460,California,4,Democratic,3.0,3.0
+Tom McClintock,House,M001177,California,5,Republican,0.0,7.0
+Ami Bera,House,B001287,California,6,Democratic,2.0,2.0
+Doris O. Matsui,House,M001163,California,7,Democratic,2.0,2.0
+John Garamendi,House,G000559,California,8,Democratic,1.0,1.0
+Josh Harder,House,H001090,California,9,Democratic,9.0,6.0
+Mark DeSaulnier,House,D000623,California,10,Democratic,1.0,1.0
+Nancy Pelosi,House,P000197,California,11,Democratic,0.0,0.0
+Lateefah Simon,House,S001231,California,12,Democratic,1.0,1.0
+Adam Gray,House,G000605,California,13,Democratic,11.0,6.0
+Eric Swalwell,House,S001193,California,14,Democratic,5.0,3.0
+Kevin Mullin,House,M001225,California,15,Democratic,2.0,2.0
+Sam Liccardo,House,L000607,California,16,Democratic,3.0,2.0
+Ro Khanna,House,K000389,California,17,Democratic,2.0,1.0
+Zoe Lofgren,House,L000397,California,18,Democratic,3.0,3.0
+Jimmy Panetta,House,P000613,California,19,Democratic,6.0,3.0
+Vince Fong,House,F000480,California,20,Republican,0.0,6.0
+Jim Costa,House,C001059,California,21,Democratic,8.0,6.0
+David G. Valadao,House,V000129,California,22,Republican,0.0,7.0
+Jay Obernolte,House,O000019,California,23,Republican,0.0,7.0
+Salud O. Carbajal,House,C001112,California,24,Democratic,3.0,3.0
+Raul Ruiz,House,R000599,California,25,Democratic,2.0,2.0
+Julia Brownley,House,B001285,California,26,Democratic,2.0,1.0
+George Whitesides,House,W000830,California,27,Democratic,7.0,4.0
+Judy Chu,House,C001080,California,28,Democratic,2.0,2.0
+Luz Rivas,House,R000620,California,29,Democratic,1.0,1.0
+Laura Friedman,House,F000483,California,30,Democratic,3.0,3.0
+Gilbert Ray Cisneros,House,C001123,California,31,Democratic,2.0,1.0
+Brad Sherman,House,S000344,California,32,Democratic,3.0,2.0
+Pete Aguilar,House,A000371,California,33,Democratic,2.0,2.0
+Jimmy Gomez,House,G000585,California,34,Democratic,2.0,2.0
+Norma J. Torres,House,T000474,California,35,Democratic,4.0,3.0
+Ted Lieu,House,L000582,California,36,Democratic,2.0,2.0
+Sydney Kamlager-Dove,House,K000400,California,37,Democratic,1.0,1.0
+Linda T. Sánchez,House,S001156,California,38,Democratic,1.0,1.0
+Mark Takano,House,T000472,California,39,Democratic,1.0,1.0
+Young Kim,House,K000397,California,40,Republican,0.0,7.0
+Ken Calvert,House,C000059,California,41,Republican,0.0,7.0
+Robert Garcia,House,G000598,California,42,Democratic,1.0,1.0
+Maxine Waters,House,W000187,California,43,Democratic,2.0,2.0
+Nanette Diaz Barragán,House,B001300,California,44,Democratic,1.0,1.0
+Derek Tran,House,T000491,California,45,Democratic,8.0,6.0
+J. Luis Correa,House,C001110,California,46,Democratic,3.0,1.0
+Dave Min,House,M001241,California,47,Democratic,6.0,4.0
+Darrell Issa,House,I000056,California,48,Republican,0.0,7.0
+Mike Levin,House,L000593,California,49,Democratic,8.0,5.0
+Scott H. Peters,House,P000608,California,50,Democratic,5.0,3.0
+Sara Jacobs,House,J000305,California,51,Democratic,1.0,1.0
+Juan Vargas,House,V000130,California,52,Democratic,2.0,1.0
+Alex Padilla,Senate,P000145,California,,Democratic,0.0,0.0
+Adam B. Schiff,Senate,S001150,California,,Democratic,0.0,0.0
+Diana DeGette,House,D000197,Colorado,1,Democratic,1.0,1.0
+Joe Neguse,House,N000191,Colorado,2,Democratic,1.0,1.0
+Jeff Hurd,House,H001100,Colorado,3,Republican,0.0,7.0
+Lauren Boebert,House,B000825,Colorado,4,Republican,0.0,7.0
+Jeff Crank,House,C001137,Colorado,5,Republican,0.0,7.0
+Jason Crow,House,C001121,Colorado,6,Democratic,2.0,1.0
+Brittany Pettersen,House,P000620,Colorado,7,Democratic,0.0,0.0
+Gabe Evans,House,E000300,Colorado,8,Republican,0.0,7.0
+Michael F. Bennet,Senate,B001267,Colorado,,Democratic,1.0,1.0
+John W. Hickenlooper,Senate,H000273,Colorado,,Democratic,1.0,1.0
+John B. Larson,House,L000557,Connecticut,1,Democratic,3.0,3.0
+Joe Courtney,House,C001069,Connecticut,2,Democratic,7.0,4.0
+Rosa L. DeLauro,House,D000216,Connecticut,3,Democratic,3.0,2.0
+James A. Himes,House,H001047,Connecticut,4,Democratic,5.0,3.0
+Jahana Hayes,House,H001081,Connecticut,5,Democratic,4.0,3.0
+Richard Blumenthal,Senate,B001277,Connecticut,,Democratic,1.0,1.0
+Christopher Murphy,Senate,M001169,Connecticut,,Democratic,0.0,0.0
+Sarah McBride,House,M001238,Delaware,At Large,Democratic,4.0,2.0
+Lisa Blunt Rochester,Senate,B001303,Delaware,,Democratic,0.0,0.0
+Christopher A. Coons,Senate,C001088,Delaware,,Democratic,1.0,1.0
+Eleanor Holmes Norton,House,N000147,District of Columbia,At Large,Democratic,0.0,0.0
+Neal P. Dunn,House,D000628,Florida,2,Republican,0.0,7.0
+Kat Cammack,House,C001039,Florida,3,Republican,0.0,7.0
+Aaron Bean,House,B001314,Florida,4,Republican,0.0,7.0
+John H. Rutherford,House,R000609,Florida,5,Republican,0.0,7.0
+Randy Fine,House,F000484,Florida,6,Republican,0.0,0.0
+Cory Mills,House,M001216,Florida,7,Republican,0.0,7.0
+Mike Haridopolos,House,H001099,Florida,8,Republican,0.0,7.0
+Darren Soto,House,S001200,Florida,9,Democratic,5.0,2.0
+Maxwell Frost,House,F000476,Florida,10,Democratic,1.0,1.0
+Daniel Webster,House,W000806,Florida,11,Republican,0.0,7.0
+Gus M. Bilirakis,House,B001257,Florida,12,Republican,0.0,7.0
+Anna Paulina Luna,House,L000596,Florida,13,Republican,0.0,7.0
+Kathy Castor,House,C001066,Florida,14,Democratic,1.0,1.0
+Laurel M. Lee,House,L000597,Florida,15,Republican,0.0,7.0
+Vern Buchanan,House,B001260,Florida,16,Republican,0.0,7.0
+W. Gregory Steube,House,S001214,Florida,17,Republican,0.0,7.0
+Scott Franklin,House,F000472,Florida,18,Republican,0.0,7.0
+Byron Donalds,House,D000032,Florida,19,Republican,0.0,7.0
+Sheila Cherfilus-McCormick,House,C001127,Florida,20,Democratic,3.0,2.0
+Brian J. Mast,House,M001199,Florida,21,Republican,0.0,7.0
+Lois Frankel,House,F000462,Florida,22,Democratic,3.0,2.0
+Jared Moskowitz,House,M001217,Florida,23,Democratic,9.0,6.0
+Frederica S. Wilson,House,W000808,Florida,24,Democratic,1.0,1.0
+Debbie Wasserman Schultz,House,W000797,Florida,25,Democratic,4.0,3.0
+Mario Diaz-Balart,House,D000600,Florida,26,Republican,0.0,6.0
+Maria Elvira Salazar,House,S000168,Florida,27,Republican,0.0,7.0
+Carlos A. Gimenez,House,G000593,Florida,28,Republican,0.0,5.0
+Ashley Moody,Senate,M001244,Florida,,Republican,0.0,2.0
+Rick Scott,Senate,S001217,Florida,,Republican,0.0,6.0
+"Earl L. ""Buddy"" Carter",House,C001103,Georgia,1,Republican,0.0,7.0
+Sanford D. Bishop,House,B000490,Georgia,2,Democratic,7.0,4.0
+Brian Jack,House,J000311,Georgia,3,Republican,0.0,7.0
+"Henry C. ""Hank"" Johnson",House,J000288,Georgia,4,Democratic,1.0,1.0
+Nikema Williams,House,W000788,Georgia,5,Democratic,1.0,1.0
+Lucy McBath,House,M001208,Georgia,6,Democratic,5.0,3.0
+Richard McCormick,House,M001218,Georgia,7,Republican,0.0,7.0
+Austin Scott,House,S001189,Georgia,8,Republican,0.0,7.0
+Andrew S. Clyde,House,C001116,Georgia,9,Republican,0.0,7.0
+Mike Collins,House,C001129,Georgia,10,Republican,0.0,7.0
+Barry Loudermilk,House,L000583,Georgia,11,Republican,0.0,7.0
+Rick W. Allen,House,A000372,Georgia,12,Republican,0.0,7.0
+David Scott,House,S001157,Georgia,13,Democratic,2.0,2.0
+Marjorie Taylor Greene,House,G000596,Georgia,14,Republican,0.0,7.0
+Jon Ossoff,Senate,O000174,Georgia,,Democratic,2.0,2.0
+Raphael G. Warnock,Senate,W000790,Georgia,,Democratic,1.0,1.0
+Ed Case,House,C001055,Hawaii,1,Democratic,5.0,2.0
+Jill N. Tokuda,House,T000487,Hawaii,2,Democratic,1.0,1.0
+Mazie K. Hirono,Senate,H001042,Hawaii,,Democratic,0.0,0.0
+Brian Schatz,Senate,S001194,Hawaii,,Democratic,1.0,1.0
+Russ Fulcher,House,F000469,Idaho,1,Republican,0.0,7.0
+Michael K. Simpson,House,S001148,Idaho,2,Republican,0.0,7.0
+Mike Crapo,Senate,C000880,Idaho,,Republican,0.0,3.0
+James E. Risch,Senate,R000584,Idaho,,Republican,0.0,3.0
+Jonathan L. Jackson,House,J000309,Illinois,1,Democratic,2.0,2.0
+Robin L. Kelly,House,K000385,Illinois,2,Democratic,1.0,1.0
+Delia C. Ramirez,House,R000617,Illinois,3,Democratic,1.0,1.0
+"Jesús G. ""Chuy"" García",House,G000586,Illinois,4,Democratic,1.0,1.0
+Mike Quigley,House,Q000023,Illinois,5,Democratic,3.0,2.0
+Sean Casten,House,C001117,Illinois,6,Democratic,1.0,1.0
+Danny K. Davis,House,D000096,Illinois,7,Democratic,1.0,1.0
+Raja Krishnamoorthi,House,K000391,Illinois,8,Democratic,1.0,1.0
+Janice D. Schakowsky,House,S001145,Illinois,9,Democratic,1.0,1.0
+Bradley Scott Schneider,House,S001190,Illinois,10,Democratic,4.0,3.0
+Bill Foster,House,F000454,Illinois,11,Democratic,3.0,2.0
+Mike Bost,House,B001295,Illinois,12,Republican,0.0,7.0
+Nikki Budzinski,House,B001315,Illinois,13,Democratic,7.0,4.0
+Lauren Underwood,House,U000040,Illinois,14,Democratic,1.0,1.0
+Mary E. Miller,House,M001211,Illinois,15,Republican,0.0,7.0
+Darin LaHood,House,L000585,Illinois,16,Republican,0.0,7.0
+Eric Sorensen,House,S001225,Illinois,17,Democratic,8.0,5.0
+Tammy Duckworth,Senate,D000622,Illinois,,Democratic,0.0,0.0
+Richard J. Durbin,Senate,D000563,Illinois,,Democratic,1.0,1.0
+Frank J. Mrvan,House,M001214,Indiana,1,Democratic,5.0,3.0
+Rudy Yakym,House,Y000067,Indiana,2,Republican,0.0,7.0
+Marlin A. Stutzman,House,S001188,Indiana,3,Republican,0.0,7.0
+James R. Baird,House,B001307,Indiana,4,Republican,0.0,7.0
+Victoria Spartz,House,S000929,Indiana,5,Republican,0.0,7.0
+Jefferson Shreve,House,S001229,Indiana,6,Republican,0.0,7.0
+André Carson,House,C001072,Indiana,7,Democratic,1.0,1.0
+Mark Messmer,House,M001233,Indiana,8,Republican,0.0,7.0
+Erin Houchin,House,H001093,Indiana,9,Republican,0.0,7.0
+Jim Banks,Senate,B001299,Indiana,,Republican,0.0,3.0
+Todd Young,Senate,Y000064,Indiana,,Republican,0.0,3.0
+Mariannette Miller-Meeks,House,M001215,Iowa,1,Republican,0.0,7.0
+Ashley Hinson,House,H001091,Iowa,2,Republican,0.0,7.0
+Zachary Nunn,House,N000193,Iowa,3,Republican,0.0,7.0
+Randy Feenstra,House,F000446,Iowa,4,Republican,0.0,7.0
+Joni Ernst,Senate,E000295,Iowa,,Republican,0.0,3.0
+Chuck Grassley,Senate,G000386,Iowa,,Republican,0.0,3.0
+Tracey Mann,House,M000871,Kansas,1,Republican,0.0,7.0
+Derek Schmidt,House,S001228,Kansas,2,Republican,0.0,7.0
+Sharice Davids,House,D000629,Kansas,3,Democratic,8.0,5.0
+Ron Estes,House,E000298,Kansas,4,Republican,0.0,7.0
+Roger Marshall,Senate,M001198,Kansas,,Republican,0.0,3.0
+Jerry Moran,Senate,M000934,Kansas,,Republican,0.0,3.0
+James Comer,House,C001108,Kentucky,1,Republican,0.0,7.0
+Brett Guthrie,House,G000558,Kentucky,2,Republican,0.0,7.0
+Morgan McGarvey,House,M001220,Kentucky,3,Democratic,1.0,1.0
+Thomas Massie,House,M001184,Kentucky,4,Republican,0.0,4.0
+Harold Rogers,House,R000395,Kentucky,5,Republican,0.0,7.0
+Andy Barr,House,B001282,Kentucky,6,Republican,0.0,7.0
+Mitch McConnell,Senate,M000355,Kentucky,,Republican,0.0,3.0
+Rand Paul,Senate,P000603,Kentucky,,Republican,0.0,2.0
+Steve Scalise,House,S001176,Louisiana,1,Republican,0.0,6.0
+Troy A. Carter,House,C001125,Louisiana,2,Democratic,2.0,2.0
+Clay Higgins,House,H001077,Louisiana,3,Republican,0.0,7.0
+Mike Johnson,House,J000299,Louisiana,4,Republican,0.0,5.0
+Julia Letlow,House,L000595,Louisiana,5,Republican,0.0,7.0
+Cleo Fields,House,F000110,Louisiana,6,Democratic,2.0,2.0
+Bill Cassidy,Senate,C001075,Louisiana,,Republican,0.0,3.0
+John Kennedy,Senate,K000393,Louisiana,,Republican,0.0,3.0
+Chellie Pingree,House,P000597,Maine,1,Democratic,1.0,1.0
+Jared F. Golden,House,G000592,Maine,2,Democratic,13.0,7.0
+Susan M. Collins,Senate,C001035,Maine,,Republican,0.0,3.0
+"Angus S. King, ",Senate,K000383,Maine,,Independent,2.0,2.0
+Andy Harris,House,H001052,Maryland,1,Republican,0.0,7.0
+Johnny Olszewski,House,O000176,Maryland,2,Democratic,3.0,2.0
+Sarah Elfreth,House,E000301,Maryland,3,Democratic,4.0,3.0
+Glenn Ivey,House,I000058,Maryland,4,Democratic,3.0,2.0
+Steny H. Hoyer,House,H000874,Maryland,5,Democratic,4.0,3.0
+April McClain Delaney,House,M001232,Maryland,6,Democratic,9.0,5.0
+Kweisi Mfume,House,M000687,Maryland,7,Democratic,3.0,2.0
+Jamie Raskin,House,R000606,Maryland,8,Democratic,1.0,1.0
+Angela D. Alsobrooks,Senate,A000382,Maryland,,Democratic,0.0,0.0
+Chris Van Hollen,Senate,V000128,Maryland,,Democratic,0.0,0.0
+Richard E. Neal,House,N000015,Massachusetts,1,Democratic,2.0,2.0
+James P. McGovern,House,M000312,Massachusetts,2,Democratic,1.0,1.0
+Lori Trahan,House,T000482,Massachusetts,3,Democratic,2.0,1.0
+Jake Auchincloss,House,A000148,Massachusetts,4,Democratic,4.0,3.0
+Katherine M. Clark,House,C001101,Massachusetts,5,Democratic,1.0,1.0
+Seth Moulton,House,M001196,Massachusetts,6,Democratic,2.0,1.0
+Ayanna Pressley,House,P000617,Massachusetts,7,Democratic,1.0,1.0
+Stephen F. Lynch,House,L000562,Massachusetts,8,Democratic,7.0,4.0
+William R. Keating,House,K000375,Massachusetts,9,Democratic,4.0,2.0
+Edward J. Markey,Senate,M000133,Massachusetts,,Democratic,0.0,0.0
+Elizabeth Warren,Senate,W000817,Massachusetts,,Democratic,0.0,0.0
+Jack Bergman,House,B001301,Michigan,1,Republican,0.0,6.0
+John R. Moolenaar,House,M001194,Michigan,2,Republican,0.0,7.0
+Hillary J. Scholten,House,S001221,Michigan,3,Democratic,9.0,6.0
+Bill Huizenga,House,H001058,Michigan,4,Republican,0.0,7.0
+Tim Walberg,House,W000798,Michigan,5,Republican,0.0,7.0
+Debbie Dingell,House,D000624,Michigan,6,Democratic,1.0,1.0
+Tom Barrett,House,B001321,Michigan,7,Republican,0.0,7.0
+Kristen McDonald Rivet,House,M001237,Michigan,8,Democratic,8.0,5.0
+Lisa C. McClain,House,M001136,Michigan,9,Republican,0.0,6.0
+John James,House,J000307,Michigan,10,Republican,0.0,7.0
+Haley M. Stevens,House,S001215,Michigan,11,Democratic,2.0,1.0
+Rashida Tlaib,House,T000481,Michigan,12,Democratic,1.0,1.0
+Shri Thanedar,House,T000488,Michigan,13,Democratic,3.0,1.0
+Gary C. Peters,Senate,P000595,Michigan,,Democratic,2.0,2.0
+Elissa Slotkin,Senate,S001208,Michigan,,Democratic,2.0,2.0
+Brad Finstad,House,F000475,Minnesota,1,Republican,0.0,7.0
+Angie Craig,House,C001119,Minnesota,2,Democratic,10.0,6.0
+Kelly Morrison,House,M001234,Minnesota,3,Democratic,4.0,2.0
+Betty McCollum,House,M001143,Minnesota,4,Democratic,1.0,1.0
+Ilhan Omar,House,O000173,Minnesota,5,Democratic,1.0,1.0
+Tom Emmer,House,E000294,Minnesota,6,Republican,0.0,7.0
+Michelle Fischbach,House,F000470,Minnesota,7,Republican,0.0,7.0
+Pete Stauber,House,S001212,Minnesota,8,Republican,0.0,7.0
+Amy Klobuchar,Senate,K000367,Minnesota,,Democratic,1.0,1.0
+Tina Smith,Senate,S001203,Minnesota,,Democratic,1.0,1.0
+Trent Kelly,House,K000388,Mississippi,1,Republican,0.0,7.0
+Bennie G. Thompson,House,T000193,Mississippi,2,Democratic,1.0,1.0
+Michael Guest,House,G000591,Mississippi,3,Republican,0.0,7.0
+Mike Ezell,House,E000235,Mississippi,4,Republican,0.0,7.0
+Cindy Hyde-Smith,Senate,H001079,Mississippi,,Republican,0.0,3.0
+Roger F. Wicker,Senate,W000437,Mississippi,,Republican,0.0,3.0
+Wesley Bell,House,B001324,Missouri,1,Democratic,3.0,2.0
+Ann Wagner,House,W000812,Missouri,2,Republican,0.0,7.0
+Robert Onder,House,O000177,Missouri,3,Republican,0.0,6.0
+Mark Alford,House,A000379,Missouri,4,Republican,0.0,7.0
+Emanuel Cleaver,House,C001061,Missouri,5,Democratic,2.0,1.0
+Sam Graves,House,G000546,Missouri,6,Republican,0.0,7.0
+Eric Burlison,House,B001316,Missouri,7,Republican,0.0,7.0
+Jason Smith,House,S001195,Missouri,8,Republican,0.0,7.0
+Josh Hawley,Senate,H001089,Missouri,,Republican,0.0,3.0
+Eric Schmitt,Senate,S001227,Missouri,,Republican,0.0,3.0
+Ryan K. Zinke,House,Z000018,Montana,1,Republican,0.0,7.0
+Troy Downing,House,D000634,Montana,2,Republican,0.0,7.0
+Steve Daines,Senate,D000618,Montana,,Republican,0.0,3.0
+Tim Sheehy,Senate,S001232,Montana,,Republican,0.0,3.0
+Mike Flood,House,F000474,Nebraska,1,Republican,0.0,7.0
+Don Bacon,House,B001298,Nebraska,2,Republican,0.0,6.0
+Adrian Smith,House,S001172,Nebraska,3,Republican,0.0,7.0
+Deb Fischer,Senate,F000463,Nebraska,,Republican,0.0,3.0
+Pete Ricketts,Senate,R000618,Nebraska,,Republican,0.0,3.0
+Dina Titus,House,T000468,Nevada,1,Democratic,6.0,4.0
+Mark E. Amodei,House,A000369,Nevada,2,Republican,0.0,6.0
+Susie Lee,House,L000590,Nevada,3,Democratic,10.0,6.0
+Steven Horsford,House,H001066,Nevada,4,Democratic,8.0,6.0
+Catherine Cortez Masto,Senate,C001113,Nevada,,Democratic,2.0,2.0
+Jacky Rosen,Senate,R000608,Nevada,,Democratic,2.0,2.0
+Chris Pappas,House,P000614,New Hampshire,1,Democratic,10.0,6.0
+Maggie Goodlander,House,G000604,New Hampshire,2,Democratic,9.0,6.0
+Margaret Wood Hassan,Senate,H001076,New Hampshire,,Democratic,2.0,2.0
+Jeanne Shaheen,Senate,S001181,New Hampshire,,Democratic,3.0,3.0
+Donald Norcross,House,N000188,New Jersey,1,Democratic,3.0,2.0
+Jefferson Van Drew,House,V000133,New Jersey,2,Republican,0.0,7.0
+Herbert Conaway,House,C001136,New Jersey,3,Democratic,4.0,2.0
+Christopher H. Smith,House,S000522,New Jersey,4,Republican,0.0,7.0
+Josh Gottheimer,House,G000583,New Jersey,5,Democratic,7.0,3.0
+Frank Pallone,House,P000034,New Jersey,6,Democratic,3.0,2.0
+Thomas H. Kean,House,K000398,New Jersey,7,Republican,0.0,7.0
+Robert Menendez,House,M001226,New Jersey,8,Democratic,2.0,1.0
+Nellie Pou,House,P000621,New Jersey,9,Democratic,3.0,2.0
+LaMonica McIver,House,M001229,New Jersey,10,Democratic,1.0,1.0
+Mikie Sherrill,House,S001207,New Jersey,11,Democratic,4.0,2.0
+Bonnie Watson Coleman,House,W000822,New Jersey,12,Democratic,1.0,1.0
+Cory A. Booker,Senate,B001288,New Jersey,,Democratic,0.0,0.0
+Andy Kim,Senate,K000394,New Jersey,,Democratic,1.0,1.0
+Melanie A. Stansbury,House,S001218,New Mexico,1,Democratic,2.0,1.0
+Gabe Vasquez,House,V000136,New Mexico,2,Democratic,8.0,4.0
+Teresa Leger Fernandez,House,L000273,New Mexico,3,Democratic,2.0,1.0
+Martin Heinrich,Senate,H001046,New Mexico,,Democratic,1.0,1.0
+Ben Ray Lujan,Senate,L000570,New Mexico,,Democratic,1.0,1.0
+Nick LaLota,House,L000598,New York,1,Republican,0.0,7.0
+Andrew R. Garbarino,House,G000597,New York,2,Republican,0.0,7.0
+Thomas R. Suozzi,House,S001201,New York,3,Democratic,10.0,6.0
+Laura Gillen,House,G000602,New York,4,Democratic,10.0,6.0
+Gregory W. Meeks,House,M001137,New York,5,Democratic,1.0,1.0
+Grace Meng,House,M001188,New York,6,Democratic,3.0,1.0
+Nydia M. Velázquez,House,V000081,New York,7,Democratic,1.0,1.0
+Hakeem S. Jeffries,House,J000294,New York,8,Democratic,1.0,1.0
+Yvette D. Clarke,House,C001067,New York,9,Democratic,1.0,1.0
+Daniel S. Goldman,House,G000599,New York,10,Democratic,3.0,1.0
+Nicole Malliotakis,House,M000317,New York,11,Republican,0.0,7.0
+Jerrold Nadler,House,N000002,New York,12,Democratic,1.0,1.0
+Adriano Espaillat,House,E000297,New York,13,Democratic,1.0,1.0
+Alexandria Ocasio-Cortez,House,O000172,New York,14,Democratic,1.0,1.0
+Ritchie Torres,House,T000486,New York,15,Democratic,7.0,5.0
+George Latimer,House,L000606,New York,16,Democratic,4.0,3.0
+Michael Lawler,House,L000599,New York,17,Republican,0.0,7.0
+Patrick Ryan,House,R000579,New York,18,Democratic,7.0,3.0
+Josh Riley,House,R000622,New York,19,Democratic,7.0,3.0
+Paul Tonko,House,T000469,New York,20,Democratic,1.0,1.0
+Elise M. Stefanik,House,S001196,New York,21,Republican,0.0,6.0
+John Mannion,House,M001231,New York,22,Democratic,7.0,4.0
+Nicholas A. Langworthy,House,L000600,New York,23,Republican,0.0,7.0
+Claudia Tenney,House,T000478,New York,24,Republican,0.0,7.0
+Joseph D. Morelle,House,M001206,New York,25,Democratic,6.0,4.0
+Timothy M. Kennedy,House,K000402,New York,26,Democratic,4.0,2.0
+Kirsten E. Gillibrand,Senate,G000555,New York,,Democratic,1.0,1.0
+Charles E. Schumer,Senate,S000148,New York,,Democratic,1.0,1.0
+Donald G. Davis,House,D000230,North Carolina,1,Democratic,10.0,6.0
+Deborah K. Ross,House,R000305,North Carolina,2,Democratic,3.0,2.0
+Gregory F. Murphy,House,M001210,North Carolina,3,Republican,0.0,7.0
+Valerie P. Foushee,House,F000477,North Carolina,4,Democratic,1.0,1.0
+Virginia Foxx,House,F000450,North Carolina,5,Republican,0.0,7.0
+Addison McDowell,House,M001240,North Carolina,6,Republican,0.0,7.0
+David Rouzer,House,R000603,North Carolina,7,Republican,0.0,7.0
+Mark Harris,House,H001102,North Carolina,8,Republican,0.0,7.0
+Richard Hudson,House,H001067,North Carolina,9,Republican,0.0,7.0
+Pat Harrigan,House,H001101,North Carolina,10,Republican,0.0,7.0
+Chuck Edwards,House,E000246,North Carolina,11,Republican,0.0,7.0
+Alma S. Adams,House,A000370,North Carolina,12,Democratic,1.0,1.0
+Brad Knott,House,K000405,North Carolina,13,Republican,0.0,7.0
+Tim Moore,House,M001236,North Carolina,14,Republican,0.0,6.0
+Ted Budd,Senate,B001305,North Carolina,,Republican,0.0,3.0
+Thomas Tillis,Senate,T000476,North Carolina,,Republican,0.0,3.0
+Julie Fedorchak,House,F000482,North Dakota,At Large,Republican,0.0,7.0
+Kevin Cramer,Senate,C001096,North Dakota,,Republican,0.0,3.0
+John Hoeven,Senate,H001061,North Dakota,,Republican,0.0,3.0
+Greg Landsman,House,L000601,Ohio,1,Democratic,10.0,5.0
+David Taylor,House,T000490,Ohio,2,Republican,0.0,7.0
+Joyce Beatty,House,B001281,Ohio,3,Democratic,2.0,2.0
+Jim Jordan,House,J000289,Ohio,4,Republican,0.0,7.0
+Robert E. Latta,House,L000566,Ohio,5,Republican,0.0,7.0
+Michael A. Rulli,House,R000619,Ohio,6,Republican,0.0,7.0
+Max L. Miller,House,M001222,Ohio,7,Republican,0.0,7.0
+Warren Davidson,House,D000626,Ohio,8,Republican,0.0,7.0
+Marcy Kaptur,House,K000009,Ohio,9,Democratic,9.0,5.0
+Michael R. Turner,House,T000463,Ohio,10,Republican,0.0,6.0
+Shontel M. Brown,House,B001313,Ohio,11,Democratic,1.0,1.0
+Troy Balderson,House,B001306,Ohio,12,Republican,0.0,7.0
+Emilia Strong Sykes,House,S001223,Ohio,13,Democratic,8.0,4.0
+David P. Joyce,House,J000295,Ohio,14,Republican,0.0,7.0
+Mike Carey,House,C001126,Ohio,15,Republican,0.0,7.0
+Jon Husted,Senate,H001104,Ohio,,Republican,0.0,2.0
+Bernie Moreno,Senate,M001242,Ohio,,Republican,0.0,3.0
+Kevin Hern,House,H001082,Oklahoma,1,Republican,0.0,7.0
+Josh Brecheen,House,B001317,Oklahoma,2,Republican,0.0,6.0
+Frank D. Lucas,House,L000491,Oklahoma,3,Republican,0.0,7.0
+Tom Cole,House,C001053,Oklahoma,4,Republican,0.0,7.0
+Stephanie I. Bice,House,B000740,Oklahoma,5,Republican,0.0,7.0
+James Lankford,Senate,L000575,Oklahoma,,Republican,0.0,3.0
+Markwayne Mullin,Senate,M001190,Oklahoma,,Republican,0.0,3.0
+Suzanne Bonamici,House,B001278,Oregon,1,Democratic,1.0,1.0
+Cliff Bentz,House,B000668,Oregon,2,Republican,0.0,7.0
+Maxine Dexter,House,D000635,Oregon,3,Democratic,1.0,1.0
+Val T. Hoyle,House,H001094,Oregon,4,Democratic,6.0,4.0
+Janelle Bynum,House,B001326,Oregon,5,Democratic,7.0,5.0
+Andrea Salinas,House,S001226,Oregon,6,Democratic,4.0,2.0
+Jeff Merkley,Senate,M001176,Oregon,,Democratic,0.0,0.0
+Ron Wyden,Senate,W000779,Oregon,,Democratic,0.0,0.0
+Brian K. Fitzpatrick,House,F000466,Pennsylvania,1,Republican,0.0,7.0
+Brendan F. Boyle,House,B001296,Pennsylvania,2,Democratic,5.0,4.0
+Dwight Evans,House,E000296,Pennsylvania,3,Democratic,1.0,1.0
+Madeleine Dean,House,D000631,Pennsylvania,4,Democratic,1.0,1.0
+Mary Gay Scanlon,House,S001205,Pennsylvania,5,Democratic,1.0,1.0
+Chrissy Houlahan,House,H001085,Pennsylvania,6,Democratic,7.0,3.0
+Ryan Mackenzie,House,M001230,Pennsylvania,7,Republican,0.0,7.0
+Robert Bresnahan,House,B001327,Pennsylvania,8,Republican,0.0,7.0
+Daniel Meuser,House,M001204,Pennsylvania,9,Republican,0.0,7.0
+Scott Perry,House,P000605,Pennsylvania,10,Republican,0.0,7.0
+Lloyd Smucker,House,S001199,Pennsylvania,11,Republican,0.0,7.0
+Summer L. Lee,House,L000602,Pennsylvania,12,Democratic,1.0,1.0
+John Joyce,House,J000302,Pennsylvania,13,Republican,0.0,7.0
+Guy Reschenthaler,House,R000610,Pennsylvania,14,Republican,0.0,7.0
+Glenn Thompson,House,T000467,Pennsylvania,15,Republican,0.0,7.0
+Mike Kelly,House,K000376,Pennsylvania,16,Republican,0.0,7.0
+Christopher R. Deluzio,House,D000530,Pennsylvania,17,Democratic,4.0,3.0
+John Fetterman,Senate,F000479,Pennsylvania,,Democratic,2.0,2.0
+David McCormick,Senate,M001243,Pennsylvania,,Republican,0.0,3.0
+Pablo Hernández,House,H001103,Puerto Rico,At Large,Democratic,0.0,0.0
+Gabe Amo,House,A000380,Rhode Island,1,Democratic,2.0,2.0
+Seth Magaziner,House,M001223,Rhode Island,2,Democratic,6.0,3.0
+Jack Reed,Senate,R000122,Rhode Island,,Democratic,1.0,1.0
+Sheldon Whitehouse,Senate,W000802,Rhode Island,,Democratic,1.0,1.0
+Nancy Mace,House,M000194,South Carolina,1,Republican,0.0,7.0
+Joe Wilson,House,W000795,South Carolina,2,Republican,0.0,7.0
+Sheri Biggs,House,B001325,South Carolina,3,Republican,0.0,7.0
+William R. Timmons,House,T000480,South Carolina,4,Republican,0.0,7.0
+Ralph Norman,House,N000190,South Carolina,5,Republican,0.0,7.0
+James E. Clyburn,House,C000537,South Carolina,6,Democratic,3.0,2.0
+Russell Fry,House,F000478,South Carolina,7,Republican,0.0,7.0
+Lindsey Graham,Senate,G000359,South Carolina,,Republican,0.0,3.0
+Tim Scott,Senate,S001184,South Carolina,,Republican,0.0,0.0
+Dusty Johnson,House,J000301,South Dakota,At Large,Republican,0.0,7.0
+Mike Rounds,Senate,R000605,South Dakota,,Republican,0.0,3.0
+John Thune,Senate,T000250,South Dakota,,Republican,0.0,3.0
+Diana Harshbarger,House,H001086,Tennessee,1,Republican,0.0,7.0
+Tim Burchett,House,B001309,Tennessee,2,Republican,0.0,7.0
+"Charles J. ""Chuck"" Fleischmann",House,F000459,Tennessee,3,Republican,0.0,7.0
+Scott DesJarlais,House,D000616,Tennessee,4,Republican,0.0,6.0
+Andrew Ogles,House,O000175,Tennessee,5,Republican,0.0,6.0
+John W. Rose,House,R000612,Tennessee,6,Republican,0.0,7.0
+Mark E. Green,House,G000590,Tennessee,7,Republican,0.0,7.0
+David Kustoff,House,K000392,Tennessee,8,Republican,0.0,7.0
+Steve Cohen,House,C001068,Tennessee,9,Democratic,4.0,3.0
+Marsha Blackburn,Senate,B001243,Tennessee,,Republican,0.0,3.0
+Bill Hagerty,Senate,H000601,Tennessee,,Republican,0.0,3.0
+Nathaniel Moran,House,M001224,Texas,1,Republican,0.0,7.0
+Dan Crenshaw,House,C001120,Texas,2,Republican,0.0,7.0
+Keith Self,House,S001224,Texas,3,Republican,0.0,7.0
+Pat Fallon,House,F000246,Texas,4,Republican,0.0,7.0
+Lance Gooden,House,G000589,Texas,5,Republican,0.0,7.0
+Jake Ellzey,House,E000071,Texas,6,Republican,0.0,7.0
+Lizzie Fletcher,House,F000468,Texas,7,Democratic,2.0,1.0
+Morgan Luttrell,House,L000603,Texas,8,Republican,0.0,7.0
+Al Green,House,G000553,Texas,9,Democratic,1.0,1.0
+Michael T. McCaul,House,M001157,Texas,10,Republican,0.0,6.0
+August Pfluger,House,P000048,Texas,11,Republican,0.0,7.0
+Craig Goldman,House,G000601,Texas,12,Republican,0.0,7.0
+Ronny Jackson,House,J000304,Texas,13,Republican,0.0,6.0
+Randy K.  Weber,House,W000814,Texas,14,Republican,0.0,7.0
+Monica De La Cruz,House,D000594,Texas,15,Republican,0.0,7.0
+Veronica Escobar,House,E000299,Texas,16,Democratic,2.0,1.0
+Pete Sessions,House,S000250,Texas,17,Republican,0.0,7.0
+Jodey C. Arrington,House,A000375,Texas,19,Republican,0.0,7.0
+Joaquin Castro,House,C001091,Texas,20,Democratic,2.0,1.0
+Chip Roy,House,R000614,Texas,21,Republican,0.0,7.0
+Troy E. Nehls,House,N000026,Texas,22,Republican,0.0,7.0
+Tony Gonzales,House,G000594,Texas,23,Republican,0.0,7.0
+Beth Van Duyne,House,V000134,Texas,24,Republican,0.0,7.0
+Roger Williams,House,W000816,Texas,25,Republican,0.0,5.0
+Brandon Gill,House,G000603,Texas,26,Republican,0.0,7.0
+Michael Cloud,House,C001115,Texas,27,Republican,0.0,7.0
+Henry Cuellar,House,C001063,Texas,28,Democratic,15.0,6.0
+Sylvia R. Garcia,House,G000587,Texas,29,Democratic,1.0,1.0
+Jasmine Crockett,House,C001130,Texas,30,Democratic,1.0,1.0
+John R. Carter,House,C001051,Texas,31,Republican,0.0,7.0
+Julie Johnson,House,J000310,Texas,32,Democratic,5.0,2.0
+Marc A. Veasey,House,V000131,Texas,33,Democratic,6.0,3.0
+Vicente Gonzalez,House,G000581,Texas,34,Democratic,10.0,5.0
+Greg Casar,House,C001131,Texas,35,Democratic,1.0,1.0
+Brian Babin,House,B001291,Texas,36,Republican,0.0,7.0
+Lloyd Doggett,House,D000399,Texas,37,Democratic,1.0,1.0
+Wesley Hunt,House,H001095,Texas,38,Republican,0.0,7.0
+John Cornyn,Senate,C001056,Texas,,Republican,0.0,3.0
+Ted Cruz,Senate,C001098,Texas,,Republican,0.0,3.0
+Blake D. Moore,House,M001213,Utah,1,Republican,0.0,7.0
+Celeste Maloy,House,M001228,Utah,2,Republican,0.0,7.0
+Mike Kennedy,House,K000403,Utah,3,Republican,0.0,7.0
+Burgess Owens,House,O000086,Utah,4,Republican,0.0,7.0
+John R. Curtis,Senate,C001114,Utah,,Republican,0.0,3.0
+Mike Lee,Senate,L000577,Utah,,Republican,0.0,3.0
+Becca Balint,House,B001318,Vermont,At Large,Democratic,1.0,1.0
+Bernard Sanders,Senate,S000033,Vermont,,Independent,0.0,0.0
+Peter Welch,Senate,W000800,Vermont,,Democratic,0.0,0.0
+Stacey E. Plaskett,House,P000610,Virgin Islands,At Large,Democratic,0.0,0.0
+Robert J. Wittman,House,W000804,Virginia,1,Republican,0.0,7.0
+Jennifer A. Kiggans,House,K000399,Virginia,2,Republican,0.0,7.0
+"Robert C. ""Bobby"" Scott",House,S000185,Virginia,3,Democratic,1.0,1.0
+Jennifer L. McClellan,House,M001227,Virginia,4,Democratic,1.0,1.0
+John McGuire,House,M001239,Virginia,5,Republican,0.0,7.0
+Ben Cline,House,C001118,Virginia,6,Republican,0.0,7.0
+Eugene Vindman,House,V000138,Virginia,7,Democratic,8.0,5.0
+Donald S. Beyer,House,B001292,Virginia,8,Democratic,1.0,1.0
+H. Morgan Griffith,House,G000568,Virginia,9,Republican,0.0,7.0
+Suhas Subramanyam,House,S001230,Virginia,10,Democratic,7.0,4.0
+Gerald E. Connolly,House,C001078,Virginia,11,Democratic,2.0,1.0
+Tim Kaine,Senate,K000384,Virginia,,Democratic,1.0,1.0
+Mark R. Warner,Senate,W000805,Virginia,,Democratic,2.0,2.0
+Suzan K. DelBene,House,D000617,Washington,1,Democratic,2.0,2.0
+Rick Larsen,House,L000560,Washington,2,Democratic,2.0,2.0
+Marie Gluesenkamp Perez,House,G000600,Washington,3,Democratic,12.0,6.0
+Dan Newhouse,House,N000189,Washington,4,Republican,0.0,7.0
+Michael Baumgartner,House,B001322,Washington,5,Republican,0.0,7.0
+Emily Randall,House,R000621,Washington,6,Democratic,1.0,1.0
+Pramila Jayapal,House,J000298,Washington,7,Democratic,1.0,1.0
+Kim Schrier,House,S001216,Washington,8,Democratic,9.0,5.0
+Adam Smith,House,S000510,Washington,9,Democratic,1.0,1.0
+Marilyn Strickland,House,S001159,Washington,10,Democratic,2.0,2.0
+Maria Cantwell,Senate,C000127,Washington,,Democratic,1.0,1.0
+Patty Murray,Senate,M001111,Washington,,Democratic,1.0,1.0
+Carol D. Miller,House,M001205,West Virginia,1,Republican,0.0,7.0
+Riley Moore,House,M001235,West Virginia,2,Republican,0.0,7.0
+Shelley Moore Capito,Senate,C001047,West Virginia,,Republican,0.0,3.0
+James C. Justice,Senate,J000312,West Virginia,,Republican,0.0,3.0
+Bryan Steil,House,S001213,Wisconsin,1,Republican,0.0,7.0
+Mark Pocan,House,P000607,Wisconsin,2,Democratic,1.0,1.0
+Derrick Van Orden,House,V000135,Wisconsin,3,Republican,0.0,7.0
+Gwen Moore,House,M001160,Wisconsin,4,Democratic,1.0,1.0
+Scott Fitzgerald,House,F000471,Wisconsin,5,Republican,0.0,7.0
+Glenn Grothman,House,G000576,Wisconsin,6,Republican,0.0,7.0
+Thomas P. Tiffany,House,T000165,Wisconsin,7,Republican,0.0,7.0
+Tony Wied,House,W000829,Wisconsin,8,Republican,0.0,7.0
+Tammy Baldwin,Senate,B001230,Wisconsin,,Democratic,1.0,1.0
+Ron Johnson,Senate,J000293,Wisconsin,,Republican,0.0,3.0
+Harriet M. Hageman,House,H001096,Wyoming,At Large,Republican,0.0,7.0
+John Barrasso,Senate,B001261,Wyoming,,Republican,0.0,3.0
+Cynthia M. Lummis,Senate,L000571,Wyoming,,Republican,0.0,3.0
